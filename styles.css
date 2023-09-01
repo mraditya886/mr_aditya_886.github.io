@@ -1,0 +1,95 @@
+*{  margin: 0%;
+    box-sizing: border-box;
+    padding: 0%;  
+    box-sizing: border-box;
+    list-style: none;
+
+ }
+
+
+ 
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    place-items: center;
+    padding: 0;
+    background-image: radial-gradient(rgb(99, 89, 245), rgb(222, 121, 255));
+}
+
+.container {
+    border-radius: 5px;
+    max-width: 60vh;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    border-radius: 100px;
+    color: white;
+    margin: 10px;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 16px;
+    border: 1px solid #ff88ef;
+    border-radius: 5px;
+    margin-top: 6px;
+    box-sizing: border-box;
+    resize: vertical;
+}
+
+.button {
+    width: 100%;
+    padding: 10px 20px;
+    background-color: #7d3ad4;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+input[type=button] :hover {
+    background-color: #0056b3;
+}
+
+
+
+
+
+
+
+
+
+ /* footer section */
+ 
+ footer{
+    overflow: hidden;
+    background-color: #333;
+    margin: 0%;
+ 
+ }
+ 
+ 
+ footer a{
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 14px 20px;
+    float: left;
+ }
+ 
+ .copyright{
+   text-align: center;
+ }
+ 
+ /* about section */
+ 
+ section h5{
+    margin: 0px 130px;
+ }
